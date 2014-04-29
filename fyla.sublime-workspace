@@ -1,0 +1,837 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"al",
+				"allowDontAskAgain"
+			],
+			[
+				"do",
+				"dontAskAgain"
+			],
+			[
+				"bo",
+				"border-style"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"defineP",
+				"defineProtectedMethod"
+			],
+			[
+				"this",
+				"thisProtected"
+			],
+			[
+				"panel",
+				"panelLookAheadCards"
+			],
+			[
+				"frameP",
+				"framePortfolioSpecialistCardStack"
+			],
+			[
+				"frameTim",
+				"frameTimeDepositsCardStack"
+			],
+			[
+				"frameCh",
+				"frameCheckingAccountsCardStack"
+			],
+			[
+				"frameH",
+				"frameHighRiskLoansCardStack"
+			],
+			[
+				"frameL",
+				"frameLowRiskLoansCardStack"
+			],
+			[
+				"sel",
+				"selectedCardType"
+			],
+			[
+				"imageT",
+				"imageTradeCheckingAccount"
+			],
+			[
+				"image",
+				"imageTradeTimeDeposit"
+			],
+			[
+				"pm",
+				"pmTrading"
+			],
+			[
+				"button",
+				"buttonConfirm"
+			],
+			[
+				"appl",
+				"applyMarketAction"
+			],
+			[
+				"frameCard",
+				"frameCardTable"
+			],
+			[
+				"panelCar",
+				"panelCardArea1"
+			],
+			[
+				"frameC",
+				"frameCollectedCards"
+			],
+			[
+				"option",
+				"optionsHand"
+			],
+			[
+				"oneT",
+				"oneTimePauseSeconds"
+			],
+			[
+				"anim",
+				"animateFirstSelectedCard"
+			],
+			[
+				"res",
+				"resetLookAhead"
+			],
+			[
+				"pro",
+				"propertyDefinitions"
+			],
+			[
+				"install",
+				"installProperties"
+			],
+			[
+				"update",
+				"UpdateReportsAndGraphs"
+			],
+			[
+				"sho",
+				"shouldShowFixedFloating"
+			],
+			[
+				"conf",
+				"confirmCardsOn"
+			],
+			[
+				"new",
+				"NewCardEffects"
+			],
+			[
+				"instr",
+				"instrumentClassOfCard"
+			],
+			[
+				"con",
+				"ConfirmItem"
+			],
+			[
+				"mark",
+				"marketPortion"
+			],
+			[
+				"li",
+				"liquidityLevel"
+			],
+			[
+				"rate",
+				"ratesAndYields"
+			],
+			[
+				"an",
+				"ancestor"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"table-c",
+				"table-cell"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"box",
+				"boxConfirmCards"
+			],
+			[
+				"rec",
+				"recCard2"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"T",
+				"TestFrame"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"de",
+				"defineButtonOnClick"
+			],
+			[
+				"eas",
+				"ease-in"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"application",
+				"application"
+			],
+			[
+				"bui",
+				"buildSubClass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "0.1/fyla.js",
+			"settings":
+			{
+				"buffer_size": 28722,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "0.1/fyla.application.js",
+			"settings":
+			{
+				"buffer_size": 11902,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/qb.html",
+			"settings":
+			{
+				"buffer_size": 8647,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "0.1/fyla.ui.views.js",
+			"settings":
+			{
+				"buffer_size": 39237,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "0.1/fyla.ui.teechart.js",
+			"settings":
+			{
+				"buffer_size": 1026,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/PlayGameFrames/GraphsFrame.html",
+			"settings":
+			{
+				"buffer_size": 26328,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "0.1/fyla.ui.dialogs.js",
+			"settings":
+			{
+				"buffer_size": 3573,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/PlayGameFrames/CardTable.ControlBarFrame.html",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/QuickBank.Solitaire.PlayGameFrame.html",
+		"/C/inetpub/wwwroot/QBKW/fyla/0.1/fyla.ui.controls.js",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/QuickBank.Solitaire.MessageBox.html",
+		"/C/inetpub/wwwroot/QBKW/fyla/0.1/fyla.ui.canvas.js",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.framework.ui.animation.tween.js",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.framework.ui.animation.jquery.js",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.framework.ui.animation.js",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/Calculator/4.1.0/QuickBank.Simulation.Cards.js",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/PlayGameFrames/CardTable.CollectedCards.StackControlFrame.html",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/PlayGameFrames/CardTable.CollectedCardsFrame.html",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.library.browser.viewport.js",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/PlayGameFrames/GraphsFrame.html",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/QuickBank.Solitaire.css",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.library.jquery.utils.js",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/PlayGameFrames/QuickBank.Solitaire.PlayGame.CardTable.ControlBarFrame.html",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/PlayGameFrames/QuickBank.Solitaire.PlayGame.CardTable.CollectedCards.HeaderFrame.html",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/PlayGameFrames/QuickBank.Solitaire.PlayGame.CardTable.CollectedCards.StackControlFrame.html",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/PlayGameFrames/QuickBank.Solitaire.PlayGame.CardTable.FinancialMarketFrame.html",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/PlayGameFrames/QuickBank.Solitaire.PlayGame.CardTable.TradeCardsFrame.html",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/PlayGameFrames/QuickBank.Solitaire.PlayGame.CardTable.SelectCardsFrame.html",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/PlayGameFrames/QuickBank.Solitaire.PlayGame.CardTableFrame.html",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/Calculator/4.1.0/QuickBank.Simulation.Controller.js",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/PlayGameFrames/QuickBank.Solitaire.PlayGame.CardTable.CollectedCardsFrame.html",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.library.utils.js",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/PlayGameFrames/QuickBank.Solitaire.PlayGame.GraphsFrame.html",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/qbFrames.html",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/QuickBank.Solitaire.GameImages.html",
+		"/C/inetpub/wwwroot/QBKW/test.html",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/ConsoleUI/4.1.0/qb.html",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/PlayGameFrames/QuickBank.Solitaire.PlayGame.CardTable.PickCardsFrame.html",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.framework.application.js",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/ConsoleUI/4.1.0/animations.html",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/testui.html",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.framework.ui.canvas.js",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/Calculator/4.1.0/QuickBank.Simulation.Model.Instrument.js",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.library.strings.js",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/PlayGameFrames/QuickBank.Solitaire.PlayGame.ReportsAndGraphsFrame.html",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.framework.ui.controls.js",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/PlayGameFrames/QuickBank.Solitaire.PlayGame.ReportsFrame.html",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.framework.core.js",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/Calculator/4.1.0/QuickBank.Simulation.Model.Calculator.js",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/Calculator/4.1.0/QuickBank.Simulation.Model.Institution.js",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/ConsoleUI/4.1.0/ReportsAndGraphs.js",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.framework.ui.teechart.js",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.framework.ui.views.js",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/testui.include.testframe2.html",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/testui.include.testframe.html",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/testui.include.testmodule.html",
+		"/C/Users/dave.ORANT_DOMAIN/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/C/Users/dave.ORANT_DOMAIN/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.framework.containers.js",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/Application/4.1.0/QuickBank.Application.Game.Persister.NVPcontainer.js",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/Application/4.1.0/QuickBank.Application.js",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/ConsoleUI/4.1.0/as.html",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.framework.mvc.js",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/testmvc.html",
+		"/C/Users/dave.ORANT_DOMAIN/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/C/Users/dave.ORANT_DOMAIN/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/dave.ORANT_DOMAIN/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/dave.ORANT_DOMAIN/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.application.js",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.mvc.js",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.core.js",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.containers.js",
+		"/C/inetpub/wwwroot/QBKW/js/1.0/ORA.javascript.sublime-project",
+		"/C/inetpub/wwwroot/QBKW/Solitaire/ConsoleUI/4.1.0/ConsoleUI.sublime-project",
+		"/C/inetpub/wwwroot/QBKW/AngularJS/tutorial.html",
+		"/C/inetpub/wwwroot/QBKW/AngularJS/controllers.js",
+		"/C/inetpub/wwwroot/QBKW/AngularJS/app.css",
+		"/C/inetpub/wwwroot/QBKW/AngularJS/bootstrap.css"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tmodal",
+			"tframe",
+			"formatNumber",
+			"app-ui",
+			"tmodal",
+			"app-ui",
+			"tmessagebox",
+			"TUIViewContainer",
+			"TUIFrameContainer",
+			"TUIViewContainer",
+			"TUIViewControl",
+			"tapplication",
+			"TUIManager",
+			"defaulfyApplication",
+			"TApplication",
+			"TObject",
+			"parseComponent",
+			"domDefinitions",
+			"constructFrame",
+			"CreateExistingTag",
+			"tagDOMdefinition",
+			"CreateExistingTag",
+			"constructFrame",
+			"parseComponent",
+			"tagControls",
+			"parseComponent",
+			".functionName",
+			"functionName",
+			")\n",
+			"functionName",
+			"cardsmat",
+			"defineenumeration",
+			"onClick",
+			"onclick",
+			"fade",
+			"domElementConstructed",
+			"constructFrame",
+			"domElementConstructed",
+			"constructFrame",
+			"domElementReady",
+			"domElementConstructed",
+			"width",
+			"Width",
+			"width",
+			"Width",
+			"width",
+			"Width",
+			"newAlignment",
+			"onres",
+			"align",
+			"slice",
+			"waitUntilUIFormsInitialize",
+			"addControl",
+			"deferredInsert",
+			"wireProtectedMethod",
+			"setInstanceMethod",
+			"wireProtectedMethod",
+			"createEmptyTag",
+			"thisProtected",
+			"$moduleContent",
+			"return",
+			"FPlanningOpportunityEffectText",
+			"panelLookAheadCards",
+			"actionStart",
+			"goForward",
+			"panelLookAheadCards",
+			"panelLookAhead",
+			"animateSelectedCard",
+			"prepareToStartSelecting",
+			"lookingah",
+			"application.controller",
+			"add",
+			"webap",
+			"application.controller",
+			"frameLowRiskLoansCardStack",
+			"cardGlowing",
+			"topCardIsSelected",
+			"xlat",
+			"deselect",
+			"goFinancialMarketAndConfirmCards",
+			"goTradeCards",
+			"zIndex",
+			"framePlayGameDiscardPileLocation",
+			"deselectTopCard",
+			"confirmCard",
+			"confirmCardOn",
+			"FConfirmMarketItems",
+			"immedi",
+			"FConfirmMarketItems",
+			"projected",
+			"controller",
+			"animateDiscardUnselectedCards",
+			"moveCardTo",
+			"drawNextOptionHand",
+			"lookingAhead",
+			"LookAheadCardsVisible",
+			"AnimateSelectedCard",
+			"lookAheadAvailable",
+			"animateDealCard",
+			"animateDrawOptionHand",
+			"animateFlipCardFaceUp",
+			"animateDealCard",
+			"option",
+			"deselectall",
+			"cardStacks",
+			"referenceControl",
+			"attach",
+			"attachcontrol",
+			"ui-f",
+			"reccard",
+			"inner",
+			"insertControl",
+			"isContentGrouping",
+			"visible",
+			"controller",
+			"CreateExistingTag",
+			"unused",
+			"isContentContainer",
+			"isContentPattern",
+			"$tag",
+			"img",
+			"DIV",
+			"tlabel",
+			"minimumrate",
+			"wireProtectedMethod",
+			"defineprotected",
+			"instrumentclassof",
+			"effectOfCardSetIfConfirmed"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"fyUIManager",
+			"defaultApplication",
+			"fyApplication",
+			"fyObject",
+			".name",
+			"args[",
+			"args.",
+			"",
+			"this.$",
+			".html",
+			"this.$",
+			"netIncomeChart",
+			"balanceSheetChart"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "0.1/fyla.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28722,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26170,
+								26170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3402.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "0.1/fyla.application.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11902,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5177,
+								5177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 2045.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/qb.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2163,
+								2163
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "0.1/fyla.ui.views.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5861,
+								5861
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1708.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "0.1/fyla.ui.teechart.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/inetpub/wwwroot/QBKW/Solitaire/BrowserUI/4.1.0/PlayGameFrames/GraphsFrame.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25893,
+								25893
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 12610.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "0.1/fyla.ui.dialogs.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								7
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "fyla.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 457.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
