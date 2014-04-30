@@ -151,7 +151,7 @@
                           } else {
 
 //var xx=1;
-                            throw 'Unknown Fyla class "'+tagInstanceName+'" while setting-up instance of '+instance._className;
+                            throw 'Unknown Fyla class "'+tagInstanceName+'" while setting-up instance of '+thisProtected.instance._className;
 
                           }
 

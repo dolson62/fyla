@@ -16,7 +16,7 @@
             this.visible=false;
             this.display=this.animate.inSeconds(0.3).fade.in;
 
-            var lid=TPanel.Create(this);
+            var lid=fyPanel.Create(this);
             lid.position={x:0,y:0};
             lid.background="gray";
             lid.opacity=0.5;
